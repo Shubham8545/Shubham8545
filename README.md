@@ -3,17 +3,17 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning React Application
+- 🔭 &nbsp; Currently working as a Senior Software Engineer at Ezee.ai
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
-- 💼 &nbsp; Frontend Web Developer
-- ✍️ &nbsp; Enthusiast in builting websites .
-- ☕ &nbsp; I belive, a perfect cup of Tea can be the ultimate solution for any stress. 
+- 🎓 &nbsp; B.Tech in Information Technology.
+- 💼 &nbsp; Full Stack Developer
+- ✍️ &nbsp; Enthusiast in building LOS applications.
+- ☕ &nbsp; I believe, a perfect cup of Tea can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Java | C++ | C | Python
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap
+- 💻 &nbsp; C++ | C | Python
+- 🌐 &nbsp; Angular | NextJs | ReactJs | Node Js | Express Js | MongoDB | Firebase | SQL | HTML | CSS | JavaScript | Bootstrap
 - 🛢 &nbsp; MySQL 
 - 🔧 &nbsp; Visual Studio code | Git | Jupyter
 
